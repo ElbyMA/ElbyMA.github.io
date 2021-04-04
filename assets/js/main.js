@@ -1,6 +1,6 @@
 /**
-* Template Name: Laura - v4.1.0
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
+* Template Name: Liesbeth - v4.1.0
+* Template URL: https://bootstrapmade.com/Liesbeth-free-creative-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
