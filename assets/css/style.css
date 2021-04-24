@@ -1122,7 +1122,7 @@ section {
   background: #fff6e4;
 }
 
-.contact .info-box i.bi {
+.contact .info-box  i.bi-file-earmark-arrow-down {
   font-size: 24px;
   color: #ffb727;
   border-radius: 50%;
